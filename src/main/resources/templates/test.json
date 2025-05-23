@@ -1,0 +1,1409 @@
+{
+  "listingId": "bd8db89d4cd955a3f6b44f747b844302",
+  "attributes": [
+    {
+      "key": {
+        "name": "Paça Tipi",
+        "id": 17
+      },
+      "value": {
+        "name": "Regular",
+        "id": 142260
+      },
+      "starred": true,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 142260,
+          "name": "Regular"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Bel",
+        "id": 1
+      },
+      "value": {
+        "name": "Yüksek Bel",
+        "id": 4
+      },
+      "starred": true,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 4,
+          "name": "Yüksek Bel"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Materyal",
+        "id": 14
+      },
+      "value": {
+        "name": "Denim",
+        "id": 648
+      },
+      "starred": true,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 648,
+          "name": "Denim"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Koleksiyon",
+        "id": 710
+      },
+      "value": {
+        "name": "Young",
+        "id": 259543
+      },
+      "starred": true,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 259543,
+          "name": "Young"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Renk",
+        "id": 348
+      },
+      "value": {
+        "name": "Mavi",
+        "id": 9
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 9,
+          "name": "Mavi"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Cep",
+        "id": 101
+      },
+      "value": {
+        "name": "Çift cepli",
+        "id": 2851
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 2851,
+          "name": "Çift cepli"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Ürün Tipi",
+        "id": 342
+      },
+      "value": {
+        "name": "Düz",
+        "id": 175939
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 175939,
+          "name": "Düz"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Boy",
+        "id": 48
+      },
+      "value": {
+        "name": "168",
+        "id": 1200532
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1200532,
+          "name": "168"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Kumaş Tipi",
+        "id": 200
+      },
+      "value": {
+        "name": "Denim",
+        "id": 2189
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 2189,
+          "name": "Denim"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Siluet",
+        "id": 880
+      },
+      "value": {
+        "name": "Regular",
+        "id": 1155224
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1155224,
+          "name": "Regular"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Ortam",
+        "id": 881
+      },
+      "value": {
+        "name": "Günlük",
+        "id": 1178157
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1178157,
+          "name": "Günlük"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Kalıp",
+        "id": 179
+      },
+      "value": {
+        "name": "Wide Leg",
+        "id": 2019
+      },
+      "starred": false,
+      "description": "Belden oturan, ayak bileğine doğru genişleyen",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 2019,
+          "name": "Wide Leg"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Desen",
+        "id": 33
+      },
+      "value": {
+        "name": "Düz",
+        "id": 261977
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 261977,
+          "name": "Düz"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Ek Özellik",
+        "id": 124
+      },
+      "value": {
+        "name": "İç Göstermeyen",
+        "id": 1178457
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1178457,
+          "name": "İç Göstermeyen"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Kapama Şekli",
+        "id": 183
+      },
+      "value": {
+        "name": "Düğme + Fermuar",
+        "id": 1178505
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1178505,
+          "name": "Düğme + Fermuar"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Kemer/Kuşak Durumu",
+        "id": 893
+      },
+      "value": {
+        "name": "Kemersiz",
+        "id": 1178507
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1178507,
+          "name": "Kemersiz"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Dokuma Tipi",
+        "id": 117
+      },
+      "value": {
+        "name": "Comfort",
+        "id": 1178348
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1178348,
+          "name": "Comfort"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Sürdürülebilirlik Detayı",
+        "id": 892
+      },
+      "value": {
+        "name": "Evet",
+        "id": 1178087
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1178087,
+          "name": "Evet"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Persona",
+        "id": 870
+      },
+      "value": {
+        "name": "Sexy",
+        "id": 902406
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 902406,
+          "name": "Sexy"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Materyal Bileşeni",
+        "id": 987
+      },
+      "value": {
+        "name": "100% Pamuk",
+        "id": 0
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": []
+    },
+    {
+      "key": {
+        "name": "Yıkama Talimatı",
+        "id": 1000
+      },
+      "value": {
+        "name": "T09",
+        "id": 1181729
+      },
+      "starred": false,
+      "description": "Maksimum 30 °C sıcaklıkta hassas yıkayınız. Ağartıcı kullanmayınız. Tamburlu kurutma yapmayınız. Düşük sıcaklıkta ütüleyiniz. Kuru temizleme yapılabilir",
+      "mediaUrls": [
+        "https://cdn.dsmcdn.com/ty376/product/charts/carelabel/wash_at_30_delicate.jpg",
+        "https://cdn.dsmcdn.com/ty376/product/charts/carelabel/do_not_bleach.jpg",
+        "https://cdn.dsmcdn.com/ty377/product/charts/carelabel/do_not_tumble_dry.jpg",
+        "https://cdn.dsmcdn.com/ty375/product/charts/carelabel/iron_low.jpg",
+        "https://cdn.dsmcdn.com/ty377/product/charts/carelabel/dry_clean.jpg"
+      ],
+      "values": [
+        {
+          "id": 1181729,
+          "name": "T09"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Paket İçeriği",
+        "id": 66
+      },
+      "value": {
+        "name": "8'li",
+        "id": 1396
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1396,
+          "name": "8'li"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Yaş",
+        "id": 279
+      },
+      "value": {
+        "name": "Tüm Yaş Grupları",
+        "id": 270492
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 270492,
+          "name": "Tüm Yaş Grupları"
+        }
+      ]
+    },
+    {
+      "key": {
+        "name": "Sezon",
+        "id": 1108
+      },
+      "value": {
+        "name": "Tüm Sezonlar",
+        "id": 1210663
+      },
+      "starred": false,
+      "description": "",
+      "mediaUrls": [],
+      "values": [
+        {
+          "id": 1210663,
+          "name": "Tüm Sezonlar"
+        }
+      ]
+    }
+  ],
+  "selectedVasAttributes": [],
+  "alternativeVariants": [],
+  "variants": [
+    {
+      "attributeId": 338,
+      "attributeName": "Beden",
+      "attributeType": "Size",
+      "attributeValue": "24",
+      "stamps": [
+        {
+          "type": 1,
+          "text": "KARGO BEDAVA"
+        }
+      ],
+      "price": {
+        "profitMargin": 0,
+        "discountedPrice": {
+          "text": "559 TL",
+          "value": 559
+        },
+        "sellingPrice": {
+          "text": "559 TL",
+          "value": 559
+        },
+        "originalPrice": {
+          "text": "559 TL",
+          "value": 559
+        },
+        "currency": "TRY",
+        "couponApplicablePrice": 559
+      },
+      "fulfilmentType": "mp",
+      "attributeBeautifiedValue": "24",
+      "isWinner": true,
+      "listingId": "bd8db89d4cd955a3f6b44f747b844302",
+      "stock": null,
+      "sellable": true,
+      "availableForClaim": true,
+      "barcode": "TYB3FLTPWRDYA41C20",
+      "itemNumber": 1136485168,
+      "discountedPriceInfo": "",
+      "hasCollectable": true,
+      "unitInfo": {
+        "unitPrice": false,
+        "unitPriceText": false
+      },
+      "rushDeliveryMerchantListingExist": false,
+      "lowerPriceMerchantListingExist": false,
+      "lowestPriceDuration": {
+        "duration": 14
+      },
+      "groupTagIds": [
+        "8d442682-784a-41c7-a0e4-0fd65f6db0a5"
+      ]
+    }
+  ],
+  "otherMerchants": [
+    {
+      "listingId": "7aeafcd31f24e39f95c0e4bc1423d223",
+      "url": "/lamiramood/kar-toka-detayli-bol-kesim-genis-paca-rahat-baggy-jean-kot-salas-kadin-pantolon-jangan-p-844271755?boutiqueId=61&merchantId=697923",
+      "reviewsUrl": "/lamiramood/kar-toka-detayli-bol-kesim-genis-paca-rahat-baggy-jean-kot-salas-kadin-pantolon-jangan-p-844271755/yorumlar",
+      "questionsUrl": "/lamiramood/kar-toka-detayli-bol-kesim-genis-paca-rahat-baggy-jean-kot-salas-kadin-pantolon-jangan-p-844271755/saticiya-sor?merchantId=697923",
+      "promotions": [
+        {
+          "shortName": "Çok Al Az Öde",
+          "promotionRemainingTime": "Son 3 Gün",
+          "isOnlyAz": false,
+          "isLimitSatisfied": false,
+          "type": 1,
+          "text": "650 TL'ye 10 TL İndirim",
+          "id": 20837998,
+          "promotionDiscountType": "DiscountOnBasket",
+          "link": "/sr?prm=20837998"
+        },
+        {
+          "shortName": "2 Adede %1",
+          "promotionRemainingTime": "Son 3 Gün",
+          "isOnlyAz": false,
+          "isLimitSatisfied": false,
+          "type": 1,
+          "text": "2 Adet ve Üzeri %1 İndirim",
+          "id": 20838010,
+          "promotionDiscountType": "TwoForOne",
+          "link": "/sr?prm=20838010"
+        }
+      ],
+      "discountedPriceInfo": "",
+      "isSellable": true,
+      "isBasketDiscount": false,
+      "hasStock": true,
+      "price": {
+        "profitMargin": 0,
+        "discountedPrice": {
+          "text": "629 TL",
+          "value": 629
+        },
+        "sellingPrice": {
+          "text": "629 TL",
+          "value": 629
+        },
+        "originalPrice": {
+          "text": "629 TL",
+          "value": 629
+        },
+        "currency": "TRY",
+        "couponApplicablePrice": 629
+      },
+      "isFreeCargo": true,
+      "merchant": {
+        "mpTyCoverageD": true,
+        "isSearchableMerchant": true,
+        "stickers": [],
+        "merchantBadges": [],
+        "merchantMarkers": [],
+        "id": 697923,
+        "name": "LAMİRAMOOD",
+        "officialName": "FIRAT İNEL",
+        "cityName": "Adana",
+        "registeredEmailAddress": "firat.inel@hs01.kep.tr",
+        "taxNumber": "4780778025",
+        "sellerScore": 9,
+        "sellerScoreColor": "049B24",
+        "deliveryProviderName": "LAMİRAMOOD",
+        "corporateInvoiceApplicable": true,
+        "videoContentId": "34a1f2a2-908c-49c0-aaab-2a37894360e7",
+        "locationBasedSales": false
+      },
+      "isBlacklist": false
+    }
+  ],
+  "campaign": {
+    "id": 61,
+    "name": "Tüm Ürünler",
+    "startDate": "2010-01-01T17:04:05",
+    "endDate": "2061-01-01T18:04:05",
+    "isMultipleSupplied": false,
+    "stockTypeId": 7,
+    "url": "/tum-urunler/butikdetay/61",
+    "showTimer": false
+  },
+  "category": {
+    "id": 120,
+    "name": "Jean",
+    "hierarchy": "Giyim/Alt Giyim/Jeans",
+    "refundable": true,
+    "beautifiedName": "jean",
+    "isVASEnabled": false,
+    "isCreditSuitable": false,
+    "bankType": {
+      "name": "CLOTHING",
+      "id": 17
+    }
+  },
+  "brand": {
+    "isVirtual": true,
+    "beautifiedName": "lamiramood",
+    "id": 166178,
+    "name": "LAMİRAMOOD",
+    "path": "/lamiramood-x-b166178"
+  },
+  "color": "Karykma1",
+  "metaBrand": {
+    "id": 1825343,
+    "name": "LAMİRAMOOD",
+    "beautifiedName": "",
+    "isVirtual": false,
+    "path": ""
+  },
+  "showVariants": true,
+  "showSexualContent": true,
+  "brandCategoryBanners": [],
+  "allVariants": [
+    {
+      "itemNumber": 1136485168,
+      "value": "24",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka1",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485167,
+      "value": "25",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka2",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485178,
+      "value": "26",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka3",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485183,
+      "value": "27",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka4",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485184,
+      "value": "28",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka5",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485185,
+      "value": "29",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka6",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485186,
+      "value": "30",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka7",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485169,
+      "value": "31",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka8",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485187,
+      "value": "32",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka9",
+      "price": 699
+    },
+    {
+      "itemNumber": 1136485166,
+      "value": "33",
+      "inStock": true,
+      "currency": "TRY",
+      "barcode": "baggytoka10",
+      "price": 699
+    }
+  ],
+  "otherMerchantVariants": [],
+  "socialProof": {
+    "basketCount": "823",
+    "pageViewCount": "768",
+    "favoriteCount": "19.4B"
+  },
+  "isThereAnyCorporateInvoiceInOtherMerchants": true,
+  "webCategoryTree": [
+    {
+      "name": "Jean",
+      "id": 120,
+      "level": 2
+    },
+    {
+      "name": "Giyim",
+      "id": 82,
+      "level": 1
+    }
+  ],
+  "hasSlicingAttribute": true,
+  "categoryTopRankings": null,
+  "isVasEnabled": false,
+  "originalCategory": {
+    "id": 1186,
+    "name": "Jeans",
+    "hierarchy": "Giyim/Alt Giyim/Jeans",
+    "refundable": true,
+    "beautifiedName": "jeans",
+    "isVASEnabled": false,
+    "isCreditSuitable": false,
+    "bankType": {
+      "name": "CLOTHING",
+      "id": 17
+    }
+  },
+  "landings": [],
+  "id": 844271755,
+  "productCode": "AbooCokGuzel",
+  "name": "Kar Toka Detaylı Bol Kesim Geniş Paça Rahat Baggy Jean Kot Salaş Kadın Pantolon Jangan",
+  "nameWithProductCode": "Kar Toka Detaylı Bol Kesim Geniş Paça Rahat Baggy Jean Kot Salaş Kadın Pantolon Jangan AbooCokGuzel",
+  "faqs": [],
+  "descriptions": [
+    {
+      "text": "Bu ürün [page=\"merchant_info\"]Shield Life[/page] tarafından gönderilecektir.",
+      "priority": 2
+    },
+    {
+      "text": "Kampanya fiyatından satılmak üzere 100 adetten fazla stok sunulmuştur.",
+      "priority": 4
+    },
+    {
+      "text": "İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.",
+      "priority": 7
+    },
+    {
+      "text": "Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır.",
+      "priority": 1001
+    },
+    {
+      "text": "Bu üründen en fazla 10 adet sipariş verilebilir. 10 adedin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar. Belirlenen bu limit kurumsal siparişlerde geçerli olmayıp, kurumsal siparişler için farklı limitler belirlenebilmektedir.",
+      "priority": 1003
+    },
+    {
+      "text": "15 gün içinde ücretsiz iade. Detaylı bilgi için [page=\"return_conditions\"]tıklayın[/page].",
+      "priority": 1005
+    },
+    {
+      "text": "Yüksek Bel Bol Paça Paça ultra Kumaş Cinsi : %100 Pamuk Yüksek Bel, Jean",
+      "priority": 0
+    },
+    {
+      "text": "Düğmeli ve Fermuarlı Kapama, Paça",
+      "priority": 0
+    },
+    {
+      "text": "Müşteri memnuniyeti bizim için önemlidir.",
+      "priority": 0
+    },
+    {
+      "text": "Rahat ve şık tasarımlarıyla günlük hayatınızda size konfor ve rahatlığı sunan kumaştan üretilen ürünlerimizin hepsi Türk malıdır. yeni model kot pantolon renk diz yapmaz denim kumaş tan üretilmiş yerli üretim şeklinde taşlanmış ürün renk solma yapmaz denim kot kumaştan üretilmiştir.",
+      "priority": 0
+    }
+  ],
+  "productGroupId": 601865505,
+  "tax": 10,
+  "businessUnit": "GAS Denim",
+  "businessUnitId": 100151,
+  "maxInstallment": 12,
+  "gender": {
+    "name": "Kadın",
+    "id": 1
+  },
+  "webGender": {
+    "name": "Kadın",
+    "id": 1
+  },
+  "url": "/lamiramood/kar-toka-detayli-bol-kesim-genis-paca-rahat-baggy-jean-kot-salas-kadin-pantolon-jangan-p-844271755",
+  "images": [
+    "/ty1457/product/media/images/prod/QC/20240801/18/2c4fba1c-fde2-3e5d-9eba-a3c9dfbe4921/1_org_zoom.jpg",
+    "/ty1455/product/media/images/prod/QC/20240801/18/0df137b4-b105-35d3-b015-8766c8845a2d/1_org_zoom.jpg",
+    "/ty1457/product/media/images/prod/QC/20240801/18/427abd7a-c601-31cc-90d0-7ec9254fe011/1_org_zoom.jpg",
+    "/ty1456/product/media/images/prod/QC/20240801/18/8e0985b4-1017-3c5a-b375-803fa0d05e80/1_org_zoom.jpg",
+    "/ty1455/product/media/images/prod/QC/20240801/18/f2192969-b70c-3f3d-9d58-07957d87ec41/1_org_zoom.jpg",
+    "/ty1456/product/media/images/prod/QC/20240801/18/071b3523-0506-3e8f-b275-f22a49ee396a/1_org_zoom.jpg"
+  ],
+  "isSellable": true,
+  "isBasketDiscount": false,
+  "hasStock": true,
+  "price": {
+    "profitMargin": 0,
+    "discountedPrice": {
+      "text": "559 TL",
+      "value": 559
+    },
+    "sellingPrice": {
+      "text": "559 TL",
+      "value": 559
+    },
+    "originalPrice": {
+      "text": "559 TL",
+      "value": 559
+    },
+    "currency": "TRY",
+    "couponApplicablePrice": 559
+  },
+  "isFreeCargo": true,
+  "promotions": [
+    {
+      "shortName": "Kargo Bedava",
+      "promotionRemainingTime": "",
+      "isOnlyAz": false,
+      "isLimitSatisfied": false,
+      "type": 2,
+      "text": "250 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+      "id": 20775777,
+      "promotionDiscountType": "Cargo",
+      "link": "/sr?prm=20775777"
+    },
+    {
+      "shortName": "2 Adede %1",
+      "promotionRemainingTime": "Son 3 Gün",
+      "isOnlyAz": false,
+      "isLimitSatisfied": false,
+      "type": 1,
+      "text": "2 Adet ve Üzeri %1 İndirim",
+      "id": 20837803,
+      "promotionDiscountType": "TwoForOne",
+      "link": "/sr?prm=20837803"
+    }
+  ],
+  "merchant": {
+    "mpTyCoverageD": true,
+    "isSearchableMerchant": true,
+    "stickers": [],
+    "merchantBadges": [
+      {
+        "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+        "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+        "type": "BADGE"
+      }
+    ],
+    "merchantMarkers": [],
+    "id": 996974,
+    "name": "Shield Life",
+    "officialName": "ENGİN İNEL",
+    "cityName": "Adana",
+    "registeredEmailAddress": "engin.inel.1@hs01.kep.tr",
+    "taxNumber": "4780778040",
+    "sellerScore": 9.2,
+    "sellerScoreColor": "049B24",
+    "deliveryProviderName": "Shield Life",
+    "corporateInvoiceApplicable": true,
+    "locationBasedSales": false,
+    "sellerLink": "/magaza/shield-life-m-996974"
+  },
+  "merchantListings": [
+    {
+      "variants": [
+        {
+          "unitInfo": {},
+          "collectableCouponDiscount": 74,
+          "lowestPriceDuration": {
+            "duration": 14
+          },
+          "listingId": "bd8db89d4cd955a3f6b44f747b844302",
+          "fulfilmentType": "mp",
+          "discountedPriceInfo": "",
+          "barcode": "TYB3FLTPWRDYA41C20",
+          "tyBarcode": "TYB3FLTPWRDYA41C20",
+          "tags": [],
+          "scores": [
+            {
+              "key": "1",
+              "value": 999981.13880445,
+              "campaignId": 61
+            },
+            {
+              "key": "2",
+              "value": 999981.13880445,
+              "campaignId": 61
+            }
+          ],
+          "variantAttributes": [
+            {
+              "attributeId": 338,
+              "attributeName": "Beden",
+              "attributeValue": "24",
+              "attributeType": "Size"
+            }
+          ],
+          "price": {
+            "currency": "TRY",
+            "buyingPrice": 0,
+            "sellingPrice": 559,
+            "originalPrice": 559,
+            "manipulatedOriginalPrice": 749,
+            "discountedPrice": 559,
+            "couponApplicablePrice": 559,
+            "profitMargin": 0
+          },
+          "maxProductSaleQuantity": 10,
+          "rushDeliveryDuration": 24,
+          "quantity": null,
+          "itemNumber": 1136485168,
+          "deci": 0,
+          "availableForClaim": true,
+          "freeCargo": true,
+          "hasCollectable": true,
+          "sellable": true,
+          "overPriced": false,
+          "isWinner": true,
+          "groupTagIds": [
+            "8d442682-784a-41c7-a0e4-0fd65f6db0a5"
+          ],
+          "hasGroupDeal": false,
+          "supplementaryServices": [],
+          "isFlash": false,
+          "rushDeliveryMerchantListing": {
+            "exist": false
+          },
+          "rushDeliveryMerchantListingExist": false,
+          "lowerPriceMerchantListingExist": false,
+          "isDiscountedListing": false
+        }
+      ],
+      "customValues": [
+        {
+          "key": "dimensionalWeight",
+          "value": "0.0"
+        },
+        {
+          "key": "stockCode",
+          "value": ""
+        },
+        {
+          "key": "vatRate",
+          "value": "10"
+        },
+        {
+          "key": "origin",
+          "value": "TR"
+        }
+      ],
+      "merchant": {
+        "mpAgreedDTD": true,
+        "mpTyCoverageD": true,
+        "mpEstimatedPackageDTD": true,
+        "cityName": "Adana",
+        "allMpEstimatedPackageDTD": true,
+        "name": "Shield Life",
+        "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/996974/9f3a5d63-af82-4bdd-8c3a-92866b438903.jpeg",
+        "officialName": "ENGİN İNEL",
+        "merchantBadges": [
+          {
+            "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+            "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+            "type": "BADGE"
+          }
+        ],
+        "merchantMarkers": [],
+        "id": 996974,
+        "registeredEmailAddress": "engin.inel.1@hs01.kep.tr",
+        "sellerScore": 9.2,
+        "sellerScoreColor": "049B24",
+        "dropShipmentSupplier": false,
+        "affiliate": "TRENDYOLTR",
+        "corporateInvoiceApplicable": true,
+        "locationBasedSales": false,
+        "taxNumber": "4780778040",
+        "districtName": "Seyhan",
+        "countryName": "Türkiye",
+        "address": "Mahalle/Semt:DAĞLIOĞLU MAH. Cadde/Sokak:14084 SK. No:23 İç Kapı No:4",
+        "stickers": [],
+        "exports": []
+      },
+      "campaign": {
+        "name": "Tüm Ürünler",
+        "tags": [],
+        "id": 61,
+        "startDate": "2010-01-01T17:04:05",
+        "endDate": "2061-01-01T18:04:05",
+        "stockTypeId": 7,
+        "isMultipleSupplied": false
+      },
+      "beta": false,
+      "isFreeCargo": false,
+      "searchableTags": [],
+      "maxProductSaleQuantity": 10,
+      "buyMorePayLessPromotions": [],
+      "stamps": [
+        {
+          "type": "TypeA",
+          "imageUrl": "indexing-sticker-stamp/moon/3f20fcd9-08ad-49ad-8109-585c4a23efa2.png",
+          "position": "upper-left",
+          "aspectRatio": 0.25,
+          "priority": 998,
+          "priceTagStamp": true
+        },
+        {
+          "type": "TypeB",
+          "imageUrl": "indexing-sticker-stamp/moon/3f20fcd9-08ad-49ad-8109-585c4a23efa2.png",
+          "position": "upper-left",
+          "aspectRatio": 0.25,
+          "priority": 998,
+          "priceTagStamp": true
+        }
+      ],
+      "promotions": [
+        {
+          "isOnlyAz": false,
+          "mocPerUser": 0,
+          "name": "2 Adet ve Üzeri %1 İndirim",
+          "promotionDiscountType": "TwoForOne",
+          "shortName": "2 Adede %1",
+          "id": 20837803,
+          "discountType": 2,
+          "promotionEndDate": "2025-02-06T23:59:00",
+          "promotionRemainingDays": 3,
+          "promotionRemainingHours": 0,
+          "promotionRemainingMinutes": 25,
+          "isLimitSatisfied": false,
+          "buyBoxScore": 0
+        },
+        {
+          "isOnlyAz": false,
+          "mocPerUser": 0,
+          "name": "250 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "promotionDiscountType": "Cargo",
+          "shortName": "Kargo Bedava",
+          "id": 20775777,
+          "discountType": 7,
+          "promotionEndDate": "2094-01-01T00:00:00",
+          "promotionRemainingDays": 25168,
+          "promotionRemainingHours": 0,
+          "promotionRemainingMinutes": 26,
+          "isLimitSatisfied": false,
+          "buyBoxScore": 0
+        }
+      ],
+      "crossPromotions": [],
+      "alternativeVariants": [],
+      "isWinner": true,
+      "hasCheapestVariant": true,
+      "allVariants": [
+        {
+          "itemNumber": 1136485168,
+          "value": "24",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485167,
+          "value": "25",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485178,
+          "value": "26",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485183,
+          "value": "27",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485184,
+          "value": "28",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485185,
+          "value": "29",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485186,
+          "value": "30",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485169,
+          "value": "31",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485187,
+          "value": "32",
+          "inStock": true
+        },
+        {
+          "itemNumber": 1136485166,
+          "value": "33",
+          "inStock": true
+        }
+      ],
+      "otherMerchantVariants": []
+    },
+    {
+      "variants": [
+        {
+          "unitInfo": {},
+          "collectableCouponDiscount": 68,
+          "listingId": "7aeafcd31f24e39f95c0e4bc1423d223",
+          "fulfilmentType": "mp",
+          "discountedPriceInfo": "",
+          "barcode": "baggytoka1",
+          "tyBarcode": "TYB3FLTPWRDYA41C20",
+          "tags": [],
+          "scores": [
+            {
+              "key": "1",
+              "value": 999976.973121072,
+              "campaignId": 61
+            },
+            {
+              "key": "2",
+              "value": 999976.973121072,
+              "campaignId": 61
+            }
+          ],
+          "variantAttributes": [
+            {
+              "attributeId": 338,
+              "attributeName": "Beden",
+              "attributeValue": "24",
+              "attributeType": "Size"
+            }
+          ],
+          "price": {
+            "currency": "TRY",
+            "buyingPrice": 0,
+            "sellingPrice": 629,
+            "originalPrice": 629,
+            "manipulatedOriginalPrice": 699,
+            "discountedPrice": 629,
+            "couponApplicablePrice": 629,
+            "profitMargin": 0
+          },
+          "maxProductSaleQuantity": 10,
+          "rushDeliveryDuration": 24,
+          "quantity": null,
+          "itemNumber": 1136485168,
+          "deci": 0,
+          "availableForClaim": true,
+          "freeCargo": true,
+          "hasCollectable": true,
+          "sellable": true,
+          "overPriced": false,
+          "isWinner": true,
+          "groupTagIds": [
+            "8d442682-784a-41c7-a0e4-0fd65f6db0a5"
+          ],
+          "hasGroupDeal": false,
+          "supplementaryServices": [],
+          "isFlash": false,
+          "rushDeliveryMerchantListingExist": false,
+          "lowerPriceMerchantListingExist": false,
+          "isDiscountedListing": false
+        }
+      ],
+      "customValues": [
+        {
+          "key": "origin",
+          "value": "TR"
+        },
+        {
+          "key": "dimensionalWeight",
+          "value": "0.0"
+        },
+        {
+          "key": "stockCode",
+          "value": ""
+        },
+        {
+          "key": "vatRate",
+          "value": "10"
+        }
+      ],
+      "merchant": {
+        "mpAgreedDTD": true,
+        "mpTyCoverageD": true,
+        "mpEstimatedPackageDTD": true,
+        "cityName": "Adana",
+        "allMpEstimatedPackageDTD": true,
+        "name": "LAMİRAMOOD",
+        "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/697923/27f7460c-0f66-4fe3-87be-a5227cd8c7fb.jpeg",
+        "officialName": "FIRAT İNEL",
+        "merchantBadges": [],
+        "merchantMarkers": [],
+        "id": 697923,
+        "registeredEmailAddress": "firat.inel@hs01.kep.tr",
+        "sellerScore": 9,
+        "sellerScoreColor": "049B24",
+        "dropShipmentSupplier": false,
+        "affiliate": "TRENDYOLTR",
+        "corporateInvoiceApplicable": true,
+        "locationBasedSales": false,
+        "taxNumber": "4780778025",
+        "districtName": "Seyhan",
+        "countryName": "TÜRKİYE",
+        "address": "Mahalle/Semt:KOCAVEZİR MAH. Cadde/Sokak:32023 SK. No:1 B",
+        "videoContentId": "34a1f2a2-908c-49c0-aaab-2a37894360e7",
+        "stickers": [],
+        "exports": []
+      },
+      "campaign": {
+        "name": "Tüm Ürünler",
+        "tags": [],
+        "id": 61,
+        "startDate": "2010-01-01T17:04:05",
+        "endDate": "2061-01-01T18:04:05",
+        "stockTypeId": 7,
+        "isMultipleSupplied": false
+      },
+      "beta": false,
+      "isFreeCargo": false,
+      "searchableTags": [],
+      "maxProductSaleQuantity": 10,
+      "buyMorePayLessPromotions": [],
+      "stamps": [],
+      "promotions": [
+        {
+          "isOnlyAz": false,
+          "mocPerUser": 0,
+          "name": "650 TL'ye 10 TL İndirim",
+          "promotionDiscountType": "DiscountOnBasket",
+          "shortName": "Çok Al Az Öde",
+          "id": 20837998,
+          "discountType": 2,
+          "promotionEndDate": "2025-02-06T23:59:00",
+          "promotionRemainingDays": 3,
+          "promotionRemainingHours": 0,
+          "promotionRemainingMinutes": 25,
+          "isLimitSatisfied": false,
+          "buyBoxScore": 0
+        },
+        {
+          "isOnlyAz": false,
+          "mocPerUser": 0,
+          "name": "2 Adet ve Üzeri %1 İndirim",
+          "promotionDiscountType": "TwoForOne",
+          "shortName": "2 Adede %1",
+          "id": 20838010,
+          "discountType": 2,
+          "promotionEndDate": "2025-02-06T23:59:00",
+          "promotionRemainingDays": 3,
+          "promotionRemainingHours": 0,
+          "promotionRemainingMinutes": 25,
+          "isLimitSatisfied": false,
+          "buyBoxScore": 0
+        },
+        {
+          "isOnlyAz": false,
+          "mocPerUser": 0,
+          "name": "250 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+          "promotionDiscountType": "Cargo",
+          "shortName": "Kargo Bedava",
+          "id": 20100673,
+          "discountType": 7,
+          "promotionEndDate": "2094-01-01T00:00:00",
+          "promotionRemainingDays": 25168,
+          "promotionRemainingHours": 0,
+          "promotionRemainingMinutes": 26,
+          "isLimitSatisfied": false,
+          "buyBoxScore": 0
+        }
+      ],
+      "crossPromotions": [],
+      "alternativeVariants": [],
+      "isWinner": false,
+      "hasCheapestVariant": false,
+      "otherMerchantVariants": null
+    }
+  ],
+  "isMarketplace": true,
+  "productStamps": [
+    {
+      "type": "TypeA",
+      "imageUrl": "indexing-sticker-stamp/moon/3f20fcd9-08ad-49ad-8109-585c4a23efa2.png",
+      "position": "upper-left",
+      "aspectRatio": 0.25,
+      "priority": 998,
+      "priceTagStamp": true
+    }
+  ],
+  "hasHtmlContent": false,
+  "favoriteCount": 19422,
+  "uxLayout": "Fashion",
+  "isDigitalGood": false,
+  "isRunningOut": false,
+  "ratingScore": {
+    "averageRating": 4.39,
+    "totalRatingCount": 201,
+    "totalCommentCount": 140
+  },
+  "showStarredAttributes": false,
+  "reviewsUrl": "/lamiramood/kar-toka-detayli-bol-kesim-genis-paca-rahat-baggy-jean-kot-salas-kadin-pantolon-jangan-p-844271755/yorumlar",
+  "questionsUrl": "/lamiramood/kar-toka-detayli-bol-kesim-genis-paca-rahat-baggy-jean-kot-salas-kadin-pantolon-jangan-p-844271755/saticiya-sor?merchantId=996974",
+  "sellerQuestionEnabled": true,
+  "sizeChartUrl": "/ty1617/product/charts/languages/tr/categories/1186/brands/1825343/c26ab945.png",
+  "sizeExpectationAvailable": true,
+  "crossPromotionAward": {
+    "awardType": null,
+    "awardValue": null,
+    "contentId": 0,
+    "merchantId": 0
+  },
+  "rushDeliveryMerchantListingExist": false,
+  "lowerPriceMerchantListingExist": false,
+  "showValidFlashSales": false,
+  "showExpiredFlashSales": false,
+  "walletRebate": {
+    "minPrice": 300,
+    "maxPrice": 10000,
+    "rebateRatio": 0.01
+  },
+  "isArtWork": false,
+  "buyMorePayLessPromotions": [],
+  "isBlacklist": false,
+  "filterableLabels": [
+    {
+      "id": "2b8705d1-164e-4127-9f03-22572b768774",
+      "name": "conceptds_cvhomepg-casual-summer",
+      "displayName": "cv_homepg casual summer",
+      "visibleAgg": false
+    },
+    {
+      "id": "e254ce1b-2889-45af-b5fe-5a6bf611936d",
+      "name": "conceptds_cvhomepgtrwomenv3-casual-summer",
+      "displayName": "cv_homepg_tr_women_v3 casual summer",
+      "visibleAgg": false
+    },
+    {
+      "id": "dc9dd160-9198-4a4d-9578-8692738239aa",
+      "name": "azrokuladonus",
+      "displayName": "AZROkulaDönüş",
+      "visibleAgg": false
+    },
+    {
+      "id": "7fd84b36-3367-4ce7-9ea9-fe24460f5c86",
+      "name": "encokonecikanurunler",
+      "displayName": "En Çok Öne Çıkan Ürünler",
+      "visibleAgg": false
+    },
+    {
+      "id": "1ad56800-6cb4-4efb-8658-b995fa3bdacc",
+      "name": "encoksatangiyim",
+      "displayName": "En Çok Satan Giyim Ürünleri",
+      "visibleAgg": false
+    },
+    {
+      "id": "cb1c377a-0043-4b85-a13d-a2c7d67b904b",
+      "name": "encoksepeteeklenenurunler",
+      "displayName": "En Çok Sepete Eklenen Ürünler",
+      "visibleAgg": false
+    }
+  ],
+  "customValues": [
+    {
+      "key": "dimensionalWeight",
+      "value": "0.0"
+    },
+    {
+      "key": "stockCode",
+      "value": ""
+    },
+    {
+      "key": "vatRate",
+      "value": "10"
+    },
+    {
+      "key": "origin",
+      "value": "TR"
+    }
+  ]
+}
